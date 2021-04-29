@@ -12,6 +12,6 @@
 |:----------------------------:|:---------------------------:|:---------------------------:|:--------------------------:|
 | <img width="80px" src="./ferris-plead.png" /> | <img width="80px" src="./ferris-police.png" /> | <img width="80px" src="./ferris-think.png" /> | <img width="80px" src="./ferris-thonk.png" /> |
 
-| ferris-what                  | ferris-wink                 | ferris-wtf                  |
-|:----------------------------:|:---------------------------:|:---------------------------:|
-| <img width="80px" src="./ferris-what.png" /> | <img width="80px" src="./ferris-wink.png" /> | <img width="80px" src="./ferris-wtf.png" /> |
+| ferris-what                  | ferris-wink                 | ferris-wtf                  | ferris-party               |
+|:----------------------------:|:---------------------------:|:---------------------------:|:--------------------------:|
+| <img width="80px" src="./ferris-what.png" /> | <img width="80px" src="./ferris-wink.png" /> | <img width="80px" src="./ferris-wtf.png" /> | <img width="80px" src="./ferris-party.png" /> |
