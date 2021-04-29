@@ -15,3 +15,7 @@
 | ferris-what                  | ferris-wink                 | ferris-wtf                  | ferris-party               |
 |:----------------------------:|:---------------------------:|:---------------------------:|:--------------------------:|
 | <img width="80px" src="./ferris-what.png" /> | <img width="80px" src="./ferris-wink.png" /> | <img width="80px" src="./ferris-wtf.png" /> | <img width="80px" src="./ferris-party.png" /> |
+
+| ferris-gentleman             |
+|:----------------------------:|
+| <img width="80px" src="./ferris-gentleman.png" /> |
