@@ -16,6 +16,6 @@
 |:----------------------------:|:---------------------------:|:---------------------------:|:--------------------------:|
 | <img width="80px" src="./ferris-what.png" /> | <img width="80px" src="./ferris-wink.png" /> | <img width="80px" src="./ferris-wtf.png" /> | <img width="80px" src="./ferris-party.png" /> |
 
-| ferris-gentleman             | ferris-among-us             |
-|:----------------------------:|:---------------------------:|
-| <img width="80px" src="./ferris-gentleman.png" /> | <img width="80px" src="./ferris-among-us.png" /> |
+| ferris-gentleman             | ferris-among-us             | ferris-unsafe               |
+|:----------------------------:|:---------------------------:|:---------------------------:|
+| <img width="80px" src="./ferris-gentleman.png" /> | <img width="80px" src="./ferris-among-us.png" /> | <img width="80px" src="./ferris-unsafe.png" /> |
